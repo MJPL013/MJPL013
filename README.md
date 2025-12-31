@@ -15,9 +15,9 @@ I architect end-to-end ML systems—from research notebooks to cloud deployments
 
 Currently obsessed with making LLMs less hallucinatory and more useful through structured reasoning frameworks.
 
-## 🛠️ Tech Stack That Pays My Bills
+## 🛠️ Tech Stack 
 
-**AI/ML Brain:**  
+**AI/ML:**  
 `PyTorch` `TensorFlow` `Scikit-learn` `CNNs` `U-Net` `Seq2Seq` `LLMs` `RAG` `Agentic AI`
 
 **GenAI & NLP Arsenal:**  
@@ -32,7 +32,7 @@ Currently obsessed with making LLMs less hallucinatory and more useful through s
 **Other Tools I Don't Hate:**  
 `Flask` `REST APIs` `MySQL` `Matplotlib` `Seaborn` `Jupyter`
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects fewh
 
 ### [Rajneeti.help] 
 *"Because politicians should be held accountable for what they actually do, not just what they say"*

@@ -34,7 +34,7 @@ Currently obsessed with making LLMs less hallucinatory and more useful through s
 
 ## 🚀 Projects I'm Proud Of
 
-### [Rajneeti.help](https://github.com/yourusername/rajneeti) 
+### [Rajneeti.help] 
 *"Because politicians should be held accountable for what they actually do, not just what they say"*
 
 Agentic RAG pipeline analyzing 50k+ political news articles. Built a custom Action vs. Rhetoric framework that classifies political statements with 85% semantic recall and sub-200ms latency. Deployed on GCP with Sentence Transformers and Gemini API for multi-step reasoning.
@@ -43,7 +43,7 @@ Agentic RAG pipeline analyzing 50k+ political news articles. Built a custom Acti
 
 ---
 
-### [VakyaSaar](https://github.com/yourusername/vakyasaar)
+### [VakyaSaar]
 *"Summarizing 74K government press releases so you don't have to"*
 
 Custom 27M-parameter BiLSTM Seq2Seq model for abstractive summarization of Indian government documents (2004-2025). Achieved 27.0 ROUGE-L F1 with domain-specific tokenization and GloVe embeddings. Deployed on Vertex AI for scalable inference.
@@ -54,7 +54,7 @@ Custom 27M-parameter BiLSTM Seq2Seq model for abstractive summarization of India
 
 ---
 
-### [Agentic Persona Architect](https://github.com/yourusername/persona-architect)
+### [Agentic Persona Architect]
 *"Multi-agent system that builds creator profiles while you sleep"*
 
 Stateful multi-agent system using LangGraph that autonomously generates Digital Creator Persona Reports. Features hierarchical reasoning with specialized Calculator and Summarizer agents, Short-Term Memory layer (40% redundancy reduction), and Pydantic validation for 100% schema compliance.
@@ -63,12 +63,12 @@ Stateful multi-agent system using LangGraph that autonomously generates Digital 
 
 ---
 
-### [AutoReelAI](https://github.com/yourusername/autoreelai)
+### [AutoReelAI]
 *"From static images to Instagram Reels in seconds"*
 
 Autonomous multi-agent video production studio orchestrating Director, Editor, Narrator, and Critic agents. Self-correcting pipeline with mood-adaptive color grading and dynamic pacing. Reduces production time from hours to seconds.
 
-**Stack:** `LangGraph` `MoviePy` `Edge-TTS` `Gemini API`
+**Stack:** `LangGraph` `MoviePy` `Edge-TTS` `GCP`
 
 ---
 
@@ -77,7 +77,7 @@ Autonomous multi-agent video production studio orchestrating Director, Editor, N
 
 Deep learning model for thermal super-resolution in cloud-obstructed satellite imagery. GPU-optimized pipeline on NVIDIA A100 with 44% error reduction vs. bicubic interpolation. Built for Urban Heat Island analysis.
 
-**Stack:** `PyTorch` `U-Net` `NVIDIA A100` `Geospatial ML`
+**Stack:** `PyTorch` `U-Net` `GCP` `Geospatial ML`
 
 ## 🏆 Achievements Worth Mentioning
 
@@ -97,7 +97,7 @@ Co-developed UGC-compliant Data Science curricula, conducted 50+ workshop hours 
 ## 📫 Let's Connect
 
 - 📧 Email: manojpal6723@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Manoj Pal](https://www.linkedin.com/in/manoj-pal-0b18a2271/)
 - 📱 Phone: +91 90684 08016
 - 🌍 Location: Bengaluru, India
 

@@ -6,12 +6,12 @@ I'm a Machine Learning engineer who gets a kick out of turning messy data into p
 
 ## 🎯 What I Actually Do
 
-I architect end-to-end ML systems—from research notebooks to cloud deployments that handle real traffic. My playground includes:
+I architect end-to-end ML systems from research notebooks to cloud deployments that handle real traffic. My playground includes:
 
-- **Agentic AI workflows** that make autonomous decisions (because single-prompt solutions are so 2022)
-- **Deep Learning models** (U-Net, Seq2Seq) for problems where traditional ML just shrugs
-- **RAG pipelines** that retrieve, reason, and actually understand context
-- **Geospatial ML** for when your data has coordinates and climate concerns
+  -**Agentic AI workflows** that make autonomous decisions (because single-prompt solutions are so 2022)
+  -**Deep Learning models** (U-Net, Seq2Seq) for problems where traditional ML just shrugs
+  -**RAG pipelines** that retrieve, reason, and actually understand context
+  -**Geospatial ML** for when your data has coordinates and climate concerns
 
 Currently obsessed with making LLMs less hallucinatory and more useful through structured reasoning frameworks.
 
@@ -50,7 +50,7 @@ Custom 27M-parameter BiLSTM Seq2Seq model for abstractive summarization of India
 
 **Stack:** `TensorFlow` `SentencePiece` `GCP` `PDFMiner`
 
-**Awards:** 🏆 1st Place - Deep Learning Innovation Challenge
+**Awards:** 🏆 1st Place   -Deep Learning Innovation Challenge
 
 ---
 
@@ -81,10 +81,10 @@ Deep learning model for thermal super-resolution in cloud-obstructed satellite i
 
 ## 🏆 Achievements Worth Mentioning
 
-- 🥇 **1st Place** | Deep Learning Innovation Challenge (VakyaSaar)
-- 🥈 **National Runner-Up** | Solar Decathlon India 2024-25 (₹1.5L prize, 150+ institutions)
-- 🎤 **Research Presenter** | SURC 2025 at Azim Premji University
-- 📜 **Certified** | NLP Specialization (DeepLearning.AI)
+  -🥇 **1st Place** | Deep Learning Innovation Challenge (VakyaSaar)
+  -🥈 **National Runner-Up** | Solar Decathlon India 2024-25 (₹1.5L prize, 150+ institutions)
+  -🎤 **Research Presenter** | SURC 2025 at Azim Premji University
+  -📜 **Certified** | NLP Specialization (DeepLearning.AI)
 
 ## 💼 Experience Highlights
 
@@ -96,10 +96,10 @@ Co-developed UGC-compliant Data Science curricula, conducted 50+ workshop hours 
 
 ## 📫 Let's Connect
 
-- 📧 Email: manojpal6723@gmail.com
-- 💼 LinkedIn: [Manoj Pal](https://www.linkedin.com/in/manoj-pal-0b18a2271/)
-- 📱 Phone: +91 90684 08016
-- 🌍 Location: Bengaluru, India
+  -📧 Email: manojpal6723@gmail.com
+  -💼 LinkedIn: [Manoj Pal](https://www.linkedin.com/in/manoj-pal-0b18a2271/)
+  -📱 Phone: +91 90684 08016
+  -🌍 Location: Bengaluru, India
 
 
 *"In a world of prompt engineers, be a system architect."*

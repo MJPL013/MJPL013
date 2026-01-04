@@ -1,8 +1,8 @@
 # Hey there, I'm Manoj 👋
 
-> *Building AI systems that don't just work—they think, reason, and scale.*
+> *Building AI systems that don't just work they think, reason, and scale.*
 
-I'm a Machine Learning engineer who gets a kick out of turning messy data into production-ready intelligence. Currently based in Bengaluru, pursuing BTech in Digital Transformation at Atria University with a 9.7 CGPA (yeah, I'm that person who actually enjoys statistics).
+I'm a Machine Learning engineer who gets a kick out of turning messy data into production-ready intelligence. Currently based in Bengaluru, pursuing BTech in Digital Transformation at Atria University.
 
 ## 🎯 What I Actually Do
 

@@ -50,8 +50,6 @@ Custom 27M-parameter BiLSTM Seq2Seq model for abstractive summarization of India
 
 **Stack:** `TensorFlow` `SentencePiece` `GCP` `PDFMiner`
 
-**Awards:** 🏆 1st Place   -Deep Learning Innovation Challenge
-
 ---
 
 ### [Agentic Persona Architect]
@@ -79,20 +77,6 @@ Deep learning model for thermal super-resolution in cloud-obstructed satellite i
 
 **Stack:** `PyTorch` `U-Net` `GCP` `Geospatial ML`
 
-## 🏆 Achievements Worth Mentioning
-
-  -🥇 **1st Place** | Deep Learning Innovation Challenge (VakyaSaar)
-  -🥈 **National Runner-Up** | Solar Decathlon India 2024-25 (₹1.5L prize, 150+ institutions)
-  -🎤 **Research Presenter** | SURC 2025 at Azim Premji University
-  -📜 **Certified** | NLP Specialization (DeepLearning.AI)
-
-## 💼 Experience Highlights
-
-**Machine Learning Intern** @ AI & Decentralized Technologies *(June-Aug 2025)*  
-Developed U-Net models for 9× thermal super-resolution of satellite data. Built GPU-optimized pipelines for large-scale geospatial datasets.
-
-**Research Assistant & Teaching Fellow** @ Naxxatra Sciences *(June 2024-Feb 2025)*  
-Co-developed UGC-compliant Data Science curricula, conducted 50+ workshop hours for 200+ students. Built AR-based educational games for immersive learning.
 
 ## 📫 Let's Connect
 
@@ -102,6 +86,5 @@ Co-developed UGC-compliant Data Science curricula, conducted 50+ workshop hours 
   -🌍 Location: Bengaluru, India
 
 
-*"In a world of prompt engineers, be a system architect."*
 
 ⭐️ From [Manoj Pal](https://github.com/MJPL013)
